@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T02:37:49.245Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" version="13.7.3" etag="8Qh3EpmZieRp-traIWEH" type="github"><diagram id="JH5xWXwDh3VBYhuhKB4g">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-22T02:38:09.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="UNsQbO_TAFgSRb6o2b3I" version="13.7.3" type="github">
+  <diagram id="JH5xWXwDh3VBYhuhKB4g" name="Page-1">
+    <mxGraphModel dx="872" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-1" value="Thai website?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-2" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="yu-LpVU-X7A7VMcHX0nx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="90" as="sourcePoint" />
+            <mxPoint x="320" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-3" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="89.5" as="sourcePoint" />
+            <mxPoint x="530" y="89.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-4" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="59" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-5" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="59" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-6" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="130" as="sourcePoint" />
+            <mxPoint x="210" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-7" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="170" as="sourcePoint" />
+            <mxPoint x="530" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-8" value="Personal Info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-9" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="210" as="sourcePoint" />
+            <mxPoint x="210" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-10" value="Suitability Test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-11" value="Set to Pass" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="370" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-12" value="Change verification level" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="450" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-13" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="209.76" y="290" as="sourcePoint" />
+            <mxPoint x="209.76" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-14" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="209.76" y="450" as="sourcePoint" />
+            <mxPoint x="209.76" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-15" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="209.76" y="530" as="sourcePoint" />
+            <mxPoint x="209.76" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-16" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="530" as="sourcePoint" />
+            <mxPoint x="250" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-17" value="KYC finished" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-18" value="Onfido" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-19" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="209.8599999999999" y="370" as="sourcePoint" />
+            <mxPoint x="209.8599999999999" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-20" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="530" as="sourcePoint" />
+            <mxPoint x="370" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-21" value="Bank Book" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-LpVU-X7A7VMcHX0nx-22" value="DOPA &amp;nbsp;- thai credit card&lt;br&gt;AMLO - passport nr check&lt;br&gt;Google check&lt;br&gt;LED - bankrupt - Thai only" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="160" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
